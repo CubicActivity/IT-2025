@@ -1,2 +1,2 @@
 # IT-2025
-Solutions i code using the Microsoft .NET Web Forms
+Solutions i code using Microsoft .NET web forms
