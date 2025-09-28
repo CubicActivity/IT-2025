@@ -4,11 +4,6 @@ Using .net framework 4.7.2
 ## Installation and Setup
 
 1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/CubicActivity/TimeManage.git
-   cd TimeManage
-
 2. **Open the project:**
 
     Open the solution file in Visual Studio 2019 (or later) with .NET Framework 4.7.2 support.
