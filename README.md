@@ -1,7 +1,7 @@
 # Интернет Технологии - 2025 ФИНКИ
 Using .net framework 4.7.2 
 
-## Installation and Setup for the solutions inside
+## Installation and Setup guide for the solutions inside
 
 1. **Clone the repository:**
 2. **Open the project:**
