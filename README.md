@@ -1,4 +1,4 @@
-# Интернет Технологии - 2025 ФИНКИ
+# Интернет Технологии (F23L2S110) - 2025 ФИНКИ
 Using .net framework 4.7.2 
 
 ## Installation and Setup guide for the solutions inside
